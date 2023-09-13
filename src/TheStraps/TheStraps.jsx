@@ -13,7 +13,7 @@ import strapColor7 from "../../src/assets/strapColor7.png";
 
 const TheStraps = () => {
   return (
-    <div className=" px-6 md:px-16 lg:px-64 pb-10 md:pb-16 lg:pb-52 bg-paint bg-no-repeat bg-bottom">
+    <div className=" px-6 md:px-16 lg:px-64 mt-10 pb-10 md:pb-16 lg:pb-52 bg-paint bg-no-repeat bg-bottom">
       <h2 className="mb-2 lg:mb-4 text-xl md:text-2xl lg:text-3xl text-center uppercase text-[#000000]">
         The Straps
       </h2>
